@@ -3,6 +3,7 @@
 	email = marcel.bensch@shopify.com
 	signingkey = 9ADE763658A7482A
 [core]
+	editor = vim
 	commitGraph = true
 [diff]
 	algorithm = patience
